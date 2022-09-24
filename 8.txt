@@ -1,0 +1,2 @@
+This file is created in github in main branch.
+Push it to all the branches - Master,feature1 nd feature2 now
